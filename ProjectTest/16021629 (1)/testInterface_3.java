@@ -1,0 +1,1 @@
+interface testInterface3 {}
